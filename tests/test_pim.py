@@ -25,4 +25,4 @@ def test_pim(driver):
 
     assert "viewPersonalDetails" in driver.current_url
 
-    print("Employee added successfully")
+    print("Employee added successfully!")
